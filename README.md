@@ -1,6 +1,6 @@
 **Hi there, i'm Vugar Kerimov. 👋**
 
-**I'm student, programmer, designer and musician. I'm constantly looking for new opportunities for self-realization, development of my soft and hard skills. **
+**I'm student, programmer, designer and musician. I'm constantly looking for new opportunities for self-realization, development of my soft and hard skills.**
 
 <!--
 **amongloneliness/amongloneliness** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
