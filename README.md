@@ -8,4 +8,13 @@
 - ⚡ Fun fact: kids ask 300 questions a day. Don't kill a child inside you!
 
 ### Languages and skills
-<img align="left" alt="Sass" width="26px" src="https://www.google.com/images/branding/googlelogo/2x/googlelogo_color_92x30dp.png" />
+
+<img alt="javascript" width="64px" src="./icons/javascript.png" />
+<img alt="c++" width="64px" src="./icons/c++.png" />
+<img alt="html" width="64px" src="./icons/html.png" />
+<img alt="css" width="64px" src="./icons/css.png" />
+<img alt="sass" width="64px" src="./icons/sass.png" />
+<img alt="csharp" width="64px" src="./icons/csharp.png" />
+<img alt="git" width="64px" src="./icons/git.png" />
+<img alt="visualstudio" width="64px" src="./icons/visualstudio.png" />
+
