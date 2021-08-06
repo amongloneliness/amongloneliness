@@ -17,4 +17,6 @@
 <img align="left" alt="csharp" width="32px" src="./icons/csharp.png" />
 <img align="left" alt="git" width="32px" src="./icons/git.png" />
 <img align="left" alt="visualstudio" width="32px" src="./icons/visualstudio.png" />
+<img align="left" alt="photoshop" width="32px" src="./icons/photoshop.png" />
+<img align="left" alt="fruityloops" width="32px" src="./icons/fruityloops.png" />
 
