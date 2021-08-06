@@ -19,4 +19,5 @@
 <img align="left" alt="visualstudio" width="32px" src="./icons/visualstudio.png" />
 <img align="left" alt="photoshop" width="32px" src="./icons/photoshop.png" />
 <img align="left" alt="fruityloops" width="32px" src="./icons/fruityloops.png" />
+<img align="left" alt="bash" width="32px" src="./icons/bash.png" />
 
