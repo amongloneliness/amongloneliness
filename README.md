@@ -6,3 +6,6 @@
 - 🚀 I try to make all my projects and ideas come true.
 - 🌠 I'm looking for like-minded people for rapid development in media, IT, design, and entrepreneurship.
 - ⚡ Fun fact: kids ask 300 questions a day. Don't kill a child inside you!
+
+### Languages and skills
+<img align="left" alt="Sass" width="26px" src="https://www.google.com/images/branding/googlelogo/2x/googlelogo_color_92x30dp.png" />
