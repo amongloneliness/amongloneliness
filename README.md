@@ -1,4 +1,4 @@
-**Hi there, i'm Vugar Kerimov. 👋**
+### **Hi there, i'm Vugar Kerimov. 👋**
 
 <!-- Top facts about me -->
 - 📚 I'm student, programmer, designer and musician. 
