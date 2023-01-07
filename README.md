@@ -18,6 +18,7 @@
 <img align="left" alt="html" width="32px" src="./icons/html.png">
 <img align="left" alt="css" width="32px" src="./icons/css.png">
 <img align="left" alt="sass" width="32px" src="./icons/sass.png">
+<img align="left" alt="c" width="32px" src="./icons/pngegg.png">
 <img align="left" alt="c++" width="32px" src="./icons/c++.png">
 <img align="left" alt="csharp" width="32px" src="./icons/csharp.png">
 <img align="left" alt="visualstudio" width="32px" src="./icons/visualstudio.png">
