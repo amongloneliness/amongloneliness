@@ -9,6 +9,7 @@
 
 <!-- Icons of languages and programs -->
 ### Languages and skills:
+<svg src="https://www.codewars.com/users/amongloneliness/badges/large">
 
 <img align="left" alt="bash" width="32px" src="./icons/bash.png">
 <img align="left" alt="git" width="32px" src="./icons/git.png">
