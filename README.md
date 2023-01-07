@@ -7,9 +7,10 @@
 - 🌠 I'm looking for like-minded people for rapid development in media, IT, design, and entrepreneurship.
 - ⚡ Fun fact: kids ask 300 questions a day. Don't kill a child inside you!
 
+<img src="https://www.codewars.com/users/amongloneliness/badges/large">
+
 <!-- Icons of languages and programs -->
 ### Languages and skills:
-<img src="https://www.codewars.com/users/amongloneliness/badges/large">
 
 <img align="left" alt="bash" width="32px" src="./icons/bash.png">
 <img align="left" alt="git" width="32px" src="./icons/git.png">
