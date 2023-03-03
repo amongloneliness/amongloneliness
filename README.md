@@ -7,7 +7,8 @@
 - 🌠 I'm looking for like-minded people for rapid development in media, IT, design, and entrepreneurship.
 - ⚡ Fun fact: kids ask 300 questions a day. Don't kill a child inside you!
 
--- codewars: [link]: https://www.codewars.com/users/amongloneliness
+-- codewars: [codewars_profile][] 
+
 <img src="https://www.codewars.com/users/amongloneliness/badges/large">
 
 <!-- Icons of languages and programs -->
@@ -26,3 +27,4 @@
 <img align="left" alt="photoshop" width="32px" src="./icons/photoshop.png">
 <img align="left" alt="fruityloops" width="32px" src="./icons/fruityloops.png">
 
+[codewars_profile]: https://www.codewars.com/users/amongloneliness
