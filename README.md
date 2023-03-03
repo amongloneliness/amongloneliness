@@ -7,7 +7,7 @@
 - 🌠 I'm looking for like-minded people for rapid development in media, IT, design, and entrepreneurship.
 - ⚡ Fun fact: kids ask 300 questions a day. Don't kill a child inside you!
 
--- codewars: [codewars_profile][] 
+**codewars:** [codewars_profile][] 
 
 <img src="https://www.codewars.com/users/amongloneliness/badges/large">
 
