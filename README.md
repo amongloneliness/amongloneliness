@@ -23,6 +23,7 @@
 <img align="left" alt="c" width="32px" src="./icons/pngegg.png">
 <img align="left" alt="c++" width="32px" src="./icons/c++.png">
 <img align="left" alt="csharp" width="32px" src="./icons/csharp.png">
+<img align="left" alt="python" width="32px" src="./icons/python.png">
 <img align="left" alt="visualstudio" width="32px" src="./icons/visualstudio.png">
 <img align="left" alt="photoshop" width="32px" src="./icons/photoshop.png">
 <img align="left" alt="fruityloops" width="32px" src="./icons/fruityloops.png">
